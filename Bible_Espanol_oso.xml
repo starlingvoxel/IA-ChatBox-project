@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XMLBIBLE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" biblename="SpanishEscrituras">
+	<BIBLEBOOK bnumber="1" bname="Mateo">	
+		<CHAPTER cnumber="5">
+			<VERS vnumber="4">Felices los pacientes, porque recibirán la tierra en herencia.</VERS>
+		</CHAPTER>
+	</BIBLEBOOK>
+	<BIBLEBOOK bnumber="2" bname="Salmos">	
+		<CHAPTER cnumber="34">
+			<VERS vnumber="18">Cuando ellos claman, el Señor los escucha y los libra de todas sus angustias.</VERS>
+		</CHAPTER>
+	</BIBLEBOOK>
+	<BIBLEBOOK bnumber="3" bname="Apocalipsis">	
+		<CHAPTER cnumber="12">
+			<VERS vnumber="11">
+			Y ellos le han vencido por la sangre del Cordero, y por la Palabra de su testimonio; y no han amado sus vidas hasta la muerte.
+			 </VERS>
+		</CHAPTER>
+		<CHAPTER cnumber="14">
+			<VERS vnumber="13">Y oí una voz del cielo que me decía: Escribe: Bienaventurados son los muertos, que de aquí en adelante mueren en el Señor. Sí, dice el Espíritu, que descansan de sus labores; y sus obras los siguen. </VERS>
+		</CHAPTER>
+	</BIBLEBOOK>
+
+	<BIBLEBOOK bnumber="3" bname="Juan">	
+		<CHAPTER cnumber="16">
+			<VERS vnumber="22">También ustedes ahora están tristes, pero yo los volveré a ver, y tendrán una alegría que nadie les podrá quitar.</VERS>
+		</CHAPTER>
+	</BIBLEBOOK>
+	<BIBLEBOOK bnumber="4" bname="Edgar Allan Poe">	
+		<CHAPTER cnumber="1">
+			<VERS vnumber="1">En lo profundo de la tierra, mi amor está mintiendo, y debo llorar solo.</VERS>
+		</CHAPTER>
+	</BIBLEBOOK>
+		<BIBLEBOOK bnumber="5" bname="Margaret Atwood">	
+		<CHAPTER cnumber="1">
+			<VERS vnumber="1">El dolor deja una marca demasiado profunda como para que se vea, una marca que queda fuera del alcance de la vista y de la mente.</VERS>
+		</CHAPTER>
+	</BIBLEBOOK>
+	<BIBLEBOOK bnumber="5" bname="Anonimo">	
+		<CHAPTER cnumber="">
+			<VERS vnumber="">No hay palabras para describir lo mucho que siento tu pérdida.</VERS>
+		</CHAPTER>
+	</BIBLEBOOK>
+</XMLBIBLE>
+
